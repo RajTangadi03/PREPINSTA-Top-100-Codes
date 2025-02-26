@@ -4,7 +4,6 @@
 
 using namespace std;
 
-// Check this recursion although it is giving right answer
 void calPower(long long int x, long long int y, long long int& ans)
 {
     if(x <= 1)  return ;
