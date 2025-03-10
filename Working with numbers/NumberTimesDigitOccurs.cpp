@@ -1,5 +1,8 @@
 // Finding Number of times x digit occurs in a given input
-
+// Digit can be consist of multiple characters
+/*
+e.g. n = 12341234; dig = 123; so answer is 2.
+*/
 #include<bits/stdc++.h>
 
 using namespace std;
