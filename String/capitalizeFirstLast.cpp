@@ -1,5 +1,9 @@
 // Capitalize the first and last character of each word of a string
 
+// For this question we have to Capitalize every first Character after space or start and ending charcter of
+// of every word.
+// EX. hi ram -> HI RaM
+
 #include<bits/stdc++.h>
 
 using namespace std;
