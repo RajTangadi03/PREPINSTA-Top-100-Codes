@@ -1,5 +1,7 @@
 
 // Counting the number of even and odd elements in an array
+// eg. Arr: 1,2,3,4,5 -> Even = 2, Odd = 3;
+
 
 #include<bits/stdc++.h>
 
