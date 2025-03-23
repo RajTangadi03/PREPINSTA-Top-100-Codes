@@ -1,3 +1,7 @@
+
+// Number after reversing, remains itself/same is Palindromic Number.
+// Example: 1234 != 4321 NOT palindrome; 1221 == 1221 Palindromic Number.
+
 #include<bits/stdc++.h>
 
 using namespace std;
