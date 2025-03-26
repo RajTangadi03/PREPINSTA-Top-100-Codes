@@ -1,4 +1,6 @@
 // Find the “Kth” max and min element of an array
+// 3 2 1 4 5 6
+// Kth means 5: min: 5, max: 2
 
 #include<bits/stdc++.h>
 
