@@ -1,5 +1,9 @@
 // Find duplicate in an array of N+1 Integers
 
+// Example:
+// array: 1 2 3 4 5 1 1 2 4 5 
+// Duplicates: 1 2 4 5
+
 #include<bits/stdc++.h>
 
 using namespace std;
