@@ -1,4 +1,7 @@
 // Prime number
+
+// Example : 7 : prime (divisible by 7 and 1 only); 18 : not prime (divisible by 1,2,3,6,9,18);
+
 #include<bits/stdc++.h>
 
 using namespace std;
