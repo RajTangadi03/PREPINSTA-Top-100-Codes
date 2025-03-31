@@ -1,3 +1,6 @@
+
+// Example : Range 5 - 10 : 5+6+7+8+9+10 -> 45
+
 #include<bits/stdc++.h>
 
 using namespace std;
