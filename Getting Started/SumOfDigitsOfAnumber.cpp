@@ -1,3 +1,4 @@
+
 // Example : 1001 -> 1 + 0 + 0 + 1 -> 2
 
 #include<bits/stdc++.h>
