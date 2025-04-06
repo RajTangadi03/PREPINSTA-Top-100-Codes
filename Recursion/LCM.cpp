@@ -1,3 +1,7 @@
+
+// Formula LCM of a & b
+// LCM = (a*b)/GCD
+
 #include<bits/stdc++.h>
 
 using namespace std;
