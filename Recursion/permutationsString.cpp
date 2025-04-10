@@ -1,4 +1,5 @@
 // Print All Permutations of a String
+// Example: 123: 123, 132, 213, 231, 312, 321
 
 #include <bits/stdc++.h>
 
