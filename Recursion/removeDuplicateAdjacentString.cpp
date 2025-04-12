@@ -1,5 +1,7 @@
 // Given a string s, remove all its adjacent duplicate characters recursively
 
+// Example : abcbcbs -> abs
+
 #include<bits/stdc++.h>
 using namespace std;
 
