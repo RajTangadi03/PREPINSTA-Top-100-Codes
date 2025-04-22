@@ -1,3 +1,4 @@
+
 // Check whether a character is a vowel or consonant
 // EX. U = vowel, u = vowel, z = consonant, Z = consonant;
 
