@@ -1,5 +1,7 @@
 // Finding Non Repeating elements in an Array
 
+// Example : 1 2 3 4 5 1 2 3 -> 4 5; 1 2 3 4 5 1 2 3 4 5 -> none/blank space; 1 2 3 4 5 -> 1 2 3 4 5;
+
 #include<bits/stdc++.h>
 using namespace std;
 
